@@ -1,0 +1,5 @@
+workingExperience: 2
+teachingAbilityScore: 2
+classAtmosphereScore: 2
+communicationScore: 2
+studentSatisfaction: 2

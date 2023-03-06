@@ -1,7 +1,7 @@
-package com.glasgow.se.event;
+package com.glasgow.se.action;
 
-import com.glasgow.se.basic.Center;
-import com.glasgow.se.basic.TeacherDTO;
+import com.glasgow.se.entity.Center;
+import com.glasgow.se.entity.TeacherDTO;
 
 public class EditTeacher implements Task {
 

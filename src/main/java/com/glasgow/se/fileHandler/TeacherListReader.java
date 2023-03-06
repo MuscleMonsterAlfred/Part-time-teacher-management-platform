@@ -1,7 +1,7 @@
-package com.glasgow.se.utils;
+package com.glasgow.se.fileHandler;
 
-import com.glasgow.se.basic.Center;
-import com.glasgow.se.basic.Teacher;
+import com.glasgow.se.entity.Center;
+import com.glasgow.se.entity.Teacher;
 
 import java.io.BufferedReader;
 import java.io.File;

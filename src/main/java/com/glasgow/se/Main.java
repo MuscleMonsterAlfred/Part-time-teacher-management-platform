@@ -1,11 +1,11 @@
 package com.glasgow.se;
 
 
-import com.glasgow.se.basic.Administrator;
-import com.glasgow.se.basic.Center;
-import com.glasgow.se.basic.CourseDirector;
-import com.glasgow.se.utils.RequirementWriter;
-import com.glasgow.se.utils.TeacherListWriter;
+import com.glasgow.se.entity.Administrator;
+import com.glasgow.se.entity.Center;
+import com.glasgow.se.entity.CourseDirector;
+import com.glasgow.se.fileHandler.RequirementWriter;
+import com.glasgow.se.fileHandler.TeacherListWriter;
 
 import java.io.IOException;
 import java.util.Scanner;

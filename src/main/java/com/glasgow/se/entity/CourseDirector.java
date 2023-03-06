@@ -1,4 +1,4 @@
-package com.glasgow.se.basic;
+package com.glasgow.se.entity;
 
 import java.io.IOException;
 import java.util.Scanner;

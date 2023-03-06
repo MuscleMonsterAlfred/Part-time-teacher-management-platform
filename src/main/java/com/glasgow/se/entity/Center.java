@@ -1,7 +1,7 @@
-package com.glasgow.se.basic;
+package com.glasgow.se.entity;
 
-import com.glasgow.se.utils.RequirementReader;
-import com.glasgow.se.utils.TeacherListReader;
+import com.glasgow.se.fileHandler.RequirementReader;
+import com.glasgow.se.fileHandler.TeacherListReader;
 
 import java.io.IOException;
 import java.util.ArrayList;
